@@ -1,5 +1,5 @@
 
-Metropolis importance sampling Monte Carlo scheme:
+**Metropolis importance sampling Monte Carlo scheme**:
 
 (1) Choose an initial state. 
 
