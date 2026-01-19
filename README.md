@@ -1,6 +1,5 @@
-The energy of a lattice is calculated using the following formula:
-
-                                             $E = J \sum_{\langle ij \rangle} s_i s_j$
+The energy of a lattice is calculated using the following formula:    
+$E = J \sum_{\langle ij \rangle} s_i s_j$
 
 **Metropolis importance sampling Monte Carlo scheme**:
 
